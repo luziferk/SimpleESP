@@ -1,0 +1,26 @@
+C:\Users\F-stop\AppData\Local\Temporary Projects\SimpleBone\obj\Debug\SimpleBone.vbprojResolveAssemblyReference.cache
+C:\Users\F-stop\AppData\Local\Temporary Projects\SimpleBone\obj\Debug\SimpleBone.Form1.resources
+C:\Users\F-stop\AppData\Local\Temporary Projects\SimpleBone\obj\Debug\SimpleBone.Resources.resources
+C:\Users\F-stop\AppData\Local\Temporary Projects\SimpleBone\obj\Debug\SimpleBone.vbproj.GenerateResource.Cache
+C:\Users\F-stop\AppData\Local\Temporary Projects\SimpleBone\obj\Debug\SimpleBone.vbproj.CoreCompileInputs.cache
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SimpleBone.exe.config
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SimpleBone.exe
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SimpleBone.pdb
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SimpleBone.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.dll
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.DXGI.dll
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.DXGI.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.vbprojResolveAssemblyReference.cache
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.Form1.resources
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.Resources.resources
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.vbproj.GenerateResource.Cache
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.vbproj.CoreCompileInputs.cache
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.exe
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.pdb
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\F-stop\Documents\Visual Studio 2017\Projects\SimpleBone\SimpleBone\obj\Debug\SimpleBone.vbproj.CopyComplete
